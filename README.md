@@ -1,2 +1,4 @@
 # anandini_gitrepo
-Here is my java projects code base details ..!
+Java Project Stack : 
+javaMvnProject - Maven Project
+
