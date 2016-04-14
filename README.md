@@ -1,2 +1,4 @@
 # anandini_gitrepo
-projects code base
+Java Project Stack : 
+javaMvnProject - Maven Project
+
